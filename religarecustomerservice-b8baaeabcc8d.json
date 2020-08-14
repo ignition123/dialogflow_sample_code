@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "religarecustomerservice",
+  "private_key_id": "b8baaeabcc8d018b92449fbb0389e3c9cebb99a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDf6efi82SQEG78\nDsRZECVmrm6Yyww6mU4zHcDywwnYbKbrucuDqtVc7LFkds9VW1Ie1R4q6J8Ost5E\njUJAAO8+FytHHoCyLcviMDtuaJ8//6dwuenA9qTJoHdK1vLwiEMdAkWpIZVXe/JL\n1Hs5LT3ff7j+bjv2txd8T4qoVku1QcVtd0kBVEgCnqqDORKWUtPBfuErXgxkUetF\nYNrH1v9bX0PTynRQP75vRCgRifCQMIhjZkJLU7v223wXBunTAVE3j0wJXdDfHi2p\nXEAy/dooKu/++8BBvEEYodHENEuOY7kY1H5RlYBubmqT/Ia5lIKlU5sLPmDbQ678\nmymS3Z31AgMBAAECggEAGaJ+0MXKuo+XFTZflk656XKI6Oc+JCtO/50lbOWVZ/iw\nd4ZS3WUefj/+4yCTBhOpaCxAAuuU4irqNXDyp78zpKkkZEUCuONzVxbshuxlZv9O\n3SH7uALExOyhG6lWMOF4xYZwETfuEBD5oWLXJKmgTskhlcdrCAjYIHw+xJz0l/CT\nz/1qeK/z+89tmem7C/sGCRlMtwdUor66WTpPBtR/gRrF1COi2AgtqaAXYNEVjaIm\nQzSRIRBd5ibyMWoaxVtcPp6g3W3QouxR5JVwb2SNFSBnj+CpZXWdX1UosG+ik9XY\ne4GMRxW6OT/stBtBU1SyUqhDJsyQQFAgjpfRJ1B8wQKBgQD9aNB4hpznl1EoE77H\nJmSi4lzYn4M+6t/ksOkg7N0XhSiDRgjcORKF8L9RR3/hi1IpBV9VLEoc1VTI9JOi\nK8WtJexsuteD+yhmjympAhi1zm32rjiHBTWwdp3eXLdren8Qna1vHXWDllrl2RkM\nTGurYH2jJD+km/YUe5cBIbn8ZQKBgQDiM+ZLnSDriH7DqSDvxHoDSJXgRhzNMuhZ\nfgdTuvz3CJlk+sC1I0EWuPCw9CCQpjsUSricM7J7L2sND8+RO9HZbsmMJ7UTgpV/\njoATZHNNcQ82hD3XI2EJ/5ZtBUfAICluvRIeBipiNuPJYLYvyWJg5UfdzHWswtsR\ndGnPJXCaUQKBgQC7UwX4cpn+YM8vbxkyImF2PxsfTxs4IWwMo/JR0obFYjvGfrkC\nAnZ86LCkptQTqGe9xyjnz2uh0NlyC8ousWjZTBVvctbpy3ncBqxnMROPIeAL4FIN\nDX7YyXZ978/u9YiEgeq5Hu/FrBnZmxh3DO7yqst1E9CwIFJSZeIEhif0OQKBgEpK\naVRkIq+4gImaPmsAyGHTsQWbgVITaiQaNCXXv8USWe7EPA5BqdrgmoxDYX6gWb7s\nW31RrUiv5iTAEJfOYblbnW4ejGX/+UGPd5jm4MeKXki1XeoOgIxcGPdtSIddCL6J\n8i1SMRFYna9ByBQhu+G+6794qx02UeSFq0qRLU5BAoGAKObtKWqUubH/UFe8O5la\nWrdC5ysAiVBQP5738KaUwzKqn2UKgV+tGOpFyRSHk+JYBSRNFo7/Ia2GFS8ic2Hl\n41UKD1u8aciqr99GIt07JBSeXMdYfGZCvfPbsU8UcI2uZlqxKZOYl2LE3hJw7v/f\nGDAeulz+pGqz8uDDZsdKlt4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "religarecustomerservice@appspot.gserviceaccount.com",
+  "client_id": "104963462474868484565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/religarecustomerservice%40appspot.gserviceaccount.com"
+}

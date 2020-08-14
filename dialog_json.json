@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "koynce-exchange",
+  "private_key_id": "d5676b7ee9a1685b974e3a944eef1023c124f634",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMGKnh1GtxXuPF\nnVKxMTYtlqE3utXF24eUvH6Db3w+9p7k14WkNnS7jwaoWpFdKcLOdQzHoptfDFFN\nLETHUUvz0yq1Lomik2zwltaJ/dFpsZrcW/6PVyEQc8Xz8E3iUcMWEHTFTC5Dimn/\nFzQMynkWWXJyL0NLQIZsYwe7vD9P1QoLWH4WcS1/N412gNEiyhlmZMVlx9Wipl6I\naWf3jYFtxToFYgIbrmdfMNCBnDFOX0FitCQFKaZF/1Cdw6E0AGmECsSxOmzQAVxs\nSkrzgISpPCnKOZosYPxRxiRJxZmT/bDztCrFbJnf121fAJl8Wvx4NMeMNhTH9Slz\nZTlE5mH9AgMBAAECggEAFXyNOfimfQ971DydTYk8Rm1iuJ7DTaqwaeC0QvsULf7B\nuJ7V83VGMc67aTLrtc6lMx4Qg93jFI0T7Bd6gC9XWyqChwOIuuRhZizDFlDx4Hox\nrvxCXu3Rzc0abHWChY6NBsAhwvmjrzmdshzLvoL8X3V4PnwqTfxTioqccE+/rJQ1\nVLTtL7uQWbB03jfu+PC6VhNxFpJi5X8BbPQGe/Rl6fzEDMiPiw4hH+zwGaODy7Gp\n1TyIF2NSfyaunYZwXt0kBCcV0d/oWxP0i6Xk4pZTiq+AFaMd5SP0cGPBVVsnLpPI\nzcsZJZdRkWspeoHD0HtyU24TZhfc/Z9BHZHZ2plAowKBgQD1L37XqZD+XDsbJY9X\nzEBiqjsLxE36un3MlmtxOYyCFiQooN1O/XWUqkariOQfdhdRRCeLDUOpLuwK8oVx\njzTuSvxbtWGHTHs44DeLdnwByO2VAZQO3nddwXl3RRb3WwD3UIGzHjdzyKAOSpV7\naRVTkN+IIlbGqrZ95pjR97YumwKBgQDVGTX82n2YaQcAI+f8nf46pcKky9mQ//Ik\nJ9m75VHx6jPQPGeZEQ/oudjfGgQGOTeS9F3oiomCxv93mnhGyRUQNCLfwW/YnuBy\nHIDacfim1GUcp25U/i5tEpCfsZtDj7gpPm0J2uBcJIJ0mAlMjr64GjTX9gFAlx9w\nK915aQMvRwKBgGFXePFgRctmjKTLdaxy0AEb+pNCXX80uSsXcRKjuXAQIEztCNAK\nersKG0KQ95iyBrHh8B0ZqAosMdRq0qXyKB6PML+sNEtGBwneos7AvJzsy75DwSdi\nFVvoqzO5/1M3ExwdH1Egpv1V4o2p+MzlPG1P8B8ZGwCG2CsF+RgrU24PAoGAVqNi\nXMQkLhP9YaQ3jHBbzVJZWZD7isVUmDiPgKISd+2FVVNJt2TFeBQfRU2Zd0JKAvhR\nOdshX0cy1Fi8L+NPKgBYcWp+465siFhoVufhdUqDNWwpImsZSwUyQYr/Gi/TawlT\nYZ9Yen3pgCfUGAktJ0KYW3lMNwt6H6vl5pe4UL8CgYEAozKsx6ldOeyHrPdpHtZn\nPatUOcMNFBLFIfA6rpDthLgMgtQM104N9ykdLYLenP370SYvRT0uuLMpWYeX3fJy\nnnrgR86YNJSEcaglCU2nPYOWO4nWrPPuYCS9SjnNXuLA7KwG5Ze+0AL1cTHCgCTT\nK2CcoCQfl+AcuOvv8vDaNzw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-jykeji@koynce-exchange.iam.gserviceaccount.com",
+  "client_id": "105653420406999333197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-jykeji%40koynce-exchange.iam.gserviceaccount.com"
+}
